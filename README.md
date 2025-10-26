@@ -261,11 +261,11 @@ Para licenciamento comercial, entre em contato: licensing@seedsaura.com
 
 ## 📞 Contato e Suporte
 
-- 🌐 **Website:** [www.seedsaura.com](https://www.seedsaura.com)
+- 🌐 **Website:** [www.seedsaura.com](#)
 - 📧 **Email:** contato@seedsaura.com
-- 💬 **Discord:** [Seeds Aura Community](https://discord.gg/seedsaura)
-- 🐦 **Twitter:** [@SeedsAura](https://twitter.com/seedsaura)
-- 📱 **Telegram:** [@SeedsAuraOfficial](https://t.me/seedsaura)
+- 💬 **Discord:** [Seeds Aura Community](#)
+- 🐦 **Twitter:** [@SeedsAura](#)
+- 📱 **Telegram:** [@SeedsAuraOfficial](#)
 
 ---
 
