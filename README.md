@@ -49,12 +49,13 @@ A maioria dos sistemas de aleatoriedade digital usa algoritmos determinísticos 
 
 **Seeds Aura** utiliza aleatoriedade pura como *ponto de partida* para:
 
-- 🖼️ **IAs Generativas** - Garantia de unicidade em cada geração
+- 🔮 **Arte Fractal** - Geração de padrões fractais únicos usando entropia física
+- 🧮 **Algoritmos Avançados** - Transformações matemáticas complexas baseadas em seeds verdadeiras
+- 🎨 **Banco de Dados de Estilos** - Combinações únicas de elementos pré-processados
 - 🎭 **Arte Digital NFT** - Cada peça é **genuinamente única e irrepetível**
-- 🌈 **Ferramentas do Seeds Aura Studio** - Criação assistida por IA com entropia real
-- 🔮 **Arte Procedural** - Resultados impossíveis de replicar
+- 🖼️ **Arte Procedural** - Resultados impossíveis de replicar ou prever
 
-**Diferencial:** Cada obra criada é **matematicamente única** e possui uma **assinatura criptográfica** que prova sua origem em entropia física.
+**Diferencial:** Cada obra criada é **matematicamente única** e possui uma **assinatura criptográfica** que prova sua origem em entropia física, usando **algoritmos determinísticos** alimentados por **entropia verdadeira**.
 
 ---
 
@@ -102,7 +103,7 @@ Seeds Aura/
 Contém as ferramentas criativas do Seeds Aura para geração de arte digital:
 
 - **Geradores de Arte** - Scripts baseados em entropia para criação artística
-- **Modelos IA** - Arquivos `.pkl` com modelos pré-treinados
+- **Modelos de Cores** - Arquivos `.pkl` com modelos pré-treinados
 - **Estilização** - Ferramentas de aplicação de estilos e filtros
 - **NFT Engine** - Sistema de criação e certificação de ativos digitais únicos
 
@@ -192,16 +193,17 @@ Seeds Aura captura entropia através de:
 
 - 🌊 **Fenômenos Ópticos Caóticos** - Interferência, difração, polarização
 - ⚡ **Ruído Quântico** - Flutuações em fotodetectores
-- 🎲 **Eventos Estocásticos** - Variações térmicas e mecânicas
+- 🎲 Movimento Aleatório - Posições e orientações únicas a cada captura
 
 ### Processamento Criptográfico
 
-- **SHA-256/SHA-512** - Hashing de sementes
-- **AES-256** - Criptografia de dados
-- **EdDSA** - Assinatura digital
-- **BLS** - Assinaturas verificáveis
+Implementado:
+✅ SHA3-256 
 
-### Validação Estatística
+Planejado:
+🔜 AES-256, EdDSA, VRF
+
+### Validação Estatística (em implementação)
 
 Todos os geradores passam pelos testes:
 - ✅ **NIST Statistical Test Suite**
@@ -211,7 +213,7 @@ Todos os geradores passam pelos testes:
 
 ---
 
-## 📊 Casos de Uso
+## 📊 Casos de Uso (em implementação)
 
 ### 🎨 Arte Digital e NFTs
 - Criação de obras verdadeiramente únicas
@@ -259,13 +261,13 @@ Para licenciamento comercial, entre em contato: licensing@seedsaura.com
 
 ---
 
-## 📞 Contato e Suporte
+## 📞 Contato e Suporte (em desenvolvimento)
 
-- 🌐 **Website:** [www.seedsaura.com](#)
-- 📧 **Email:** contato@seedsaura.com
+- 🌐 **Website:** [#](#)
+- 📧 **Email:** #
 - 💬 **Discord:** [Seeds Aura Community](#)
-- 🐦 **Twitter:** [@SeedsAura](#)
-- 📱 **Telegram:** [@SeedsAuraOfficial](#)
+- 🐦 **Twitter:** [#](#)
+- 📱 **Telegram:** [#l](#)
 
 ---
 
