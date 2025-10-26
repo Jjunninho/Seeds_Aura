@@ -22,9 +22,9 @@ Transformando entropia física em arte digital através de aleatoriedade verific
 
 ## 🌟 Visão Geral
 
-**Seeds Aura** é um projeto inovador que integra **hardware óptico** e **criptografia avançada** para criar uma nova classe de ativos digitais e serviços de segurança de próxima geração.
+**Seeds Aura** é um projeto inovador que integra **hardware óptico** e **criptografia avançada** para criar uma nova classe de ativos digitais e serviços de segurança de última geração.
 
-O projeto nasceu do objetivo de capturar a **máxima entropia física** de fenômenos ópticos complexos, gerando sementes de aleatoriedade verdadeira (TRNG - *True Random Number Generator*) que servem como fundação para segurança criptográfica e criação artística.
+O projeto nasceu do objetivo de fazer arte digital e tambpem percebeu-se que poderia obter obter-se a **máxima entropia física** de fenômenos ópticos complexos, gerando sementes de aleatoriedade verdadeira (TRNG - *True Random Number Generator*) que servem como fundação para segurança criptográfica e criação artística.
 
 ### 🎯 Por que Seeds Aura?
 
