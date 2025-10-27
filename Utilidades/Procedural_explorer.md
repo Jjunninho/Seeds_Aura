@@ -591,7 +591,8 @@ Desenvolvido com ❤️ para a comunidade de computação gráfica e geração p
 ---
 
 <div align="center">
-
+   
+Desenvolvido com ❤️ pela equipe Seeds Aura
 **⭐ Se este projeto foi útil, considere dar uma estrela!**
 
 [🐛 Report Bug](https://github.com/seu-usuario/procedural-explorer/issues) · 
