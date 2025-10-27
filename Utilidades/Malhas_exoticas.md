@@ -385,7 +385,8 @@ Criado com amor e matemática 💕➕🔢 = 🎨
 
 ### ⭐ Se você gostou, deixe uma estrela no repositório! ⭐
 
-Made with ❤️ using Python, PyQt5 & Mathematics
+Desenvolvido com ❤️ pela equipe Seeds Aura
+**⭐ Se este projeto foi útil, considere dar uma estrela!**
 
 [⬆ Voltar ao topo](#-seeds-aura---criador-de-malhas-exóticas)
 
