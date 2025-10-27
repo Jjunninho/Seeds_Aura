@@ -2674,7 +2674,8 @@ Siga para novidades:
 
 ---
 
-Feito com ❤️ e Python
+Desenvolvido com ❤️ pela equipe Seeds Aura
+**⭐ Se este projeto foi útil, considere dar uma estrela!**
 
 **[⬆ Voltar ao Topo](#-gerador-de-cadernos-personalizados---documentação-completa)**
 
