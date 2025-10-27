@@ -20,3 +20,8 @@ Utilidades - Aqui você encontra os principais programas utilizados para manipul
 1. Enumerador de Vértices - O Enumerador de Vértices é uma ferramenta profissional para detecção, 
 classificação e numeração automática de vértices em imagens de malhas 
 estruturais, redes hexagonais, grafos e estruturas geométricas.
+ ## Utilidades
+
+- [Criador de Cadernos](Utilidades/Criador_de_Cadernos.md)
+- [Malhas Exóticas](Utilidades/Malhas_exoticas.md)
+- [Explorador Procedural](Utilidades/Procedural_Explorer.py)
